@@ -97,6 +97,6 @@ streamlit run app.py
 ```
 
 ## 👨‍💻 Auteur
-Kadidiatou Ibrahima Bagayoko - Étudiante en B2 Informatique
+Kadidiatou Ibrahima Bagayoko - Étudiante en B2 - Spécialisation Data & IA 
 
 Projet Data Analytics - Janvier 2026
