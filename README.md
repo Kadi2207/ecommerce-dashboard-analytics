@@ -57,8 +57,7 @@ Le dashboard présente plusieurs analyses clés :
 
 **Kadidiatou Ibrahima Bagayoko**  
 Étudiante en B2 Informatique - Spécialisation Data  
-Portfolio : [votre-lien]  
-LinkedIn : [votre-lien]
+LinkedIn :  in/kadi-bagayoko
 
 *Projet réalisé en janvier 2026 dans le cadre de la recherche de stage en Data Analytics*
 
