@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/header.svg" alt="En-tête : Dashboard e-commerce" width="100%">
+</p>
+
 # Dashboard e-commerce : analyse de ventes
 
 Dashboard interactif (Streamlit + Plotly) construit sur près de 400 000 lignes de transactions e-commerce : 6 indicateurs, 6 graphiques et un tableau filtrable, pour passer des données brutes à des constats chiffrés sur le chiffre d'affaires, les produits et les pays.
